@@ -11,8 +11,6 @@ page_sections:
     link_text: Start
   - link: "#preise"
     link_text: Preise
-  - link: "#buchungsanfrage"
-    link_text: Buchungsanfrage
   - link: "#blogs"
     link_text: Blogs
   cta:
