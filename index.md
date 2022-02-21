@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Start
-  - link: "#preise"
+  - link: Preise
     link_text: Preise
   - link: "#blogs"
     link_text: Blogs
